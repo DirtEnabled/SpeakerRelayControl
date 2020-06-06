@@ -1,0 +1,12 @@
+Speaker Relay Controls
+
+by Doug Reynolds
+6-6-2020
+
+This project is the control the speaker settings in my basement. This is the software portion to control a 
+custom hardware relay panel.
+
+There are three possible speaker configurations:
+ 1- Traditional 7.1 surround sound
+ 2- Stereo - Including two extra speakers to extend the sound the full room
+ 3- Outside 3 speakers for outdoor parties
